@@ -1,1 +1,1 @@
-"# sdlxliff-noTrans2Translated" 
+# sdlxliff-noTrans2Translated 
