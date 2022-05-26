@@ -5,7 +5,7 @@ use XML::LibXML;
 use Encode qw( decode encode );
 
 ###########################################################
-# Status change process after pseud translation in Trados.
+# Status change process after pseudo translation in Trados.
 ###########################################################
 
 print "Folder: ";
